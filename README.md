@@ -42,5 +42,3 @@ bank-management-python/
 - The application uses **SQLite** to store account data.  
 - A database file called `database.db` is **created automatically** in the same folder as `main.py` when you first run the program.  
 - You **do not need to create it manually**.  
-
-### Recommended `.gitignore` entries
