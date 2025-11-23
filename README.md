@@ -4,7 +4,7 @@
 This project implements a **Bank Management System** in Python using SQLite.  
 It demonstrates full **CRUD operations** (Create, Read, Update, Delete) on bank accounts, along with account searches and simple transaction management.  
 
-Developed as part of a **DBMS course project**, it showcases practical database interaction, Python programming, and object-oriented design skills.
+Developed as part of a **DBMS course project** in 2021, it showcases practical database interaction, Python programming, and object-oriented design skills.
 
 ---
 
